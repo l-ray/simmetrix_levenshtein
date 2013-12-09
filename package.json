@@ -1,0 +1,30 @@
+{
+  "author": {
+    "name": "Lennart Reuther",
+    "email": "lennart.reuther+xirtemmis@gmail.com"
+  },
+  "name": "simmetrix.levenshtein",
+  "description": "levenshtein distance in javascript",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/l-ray/simmetrix.levenshtein.git"
+  },
+  "main": "simmetrix.levenshtein.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "~1.9.0"
+  },
+ "readmeFilename": "README.md",
+ "bugs": {
+    "url": "https://github.com/l-ray/simmetrix.levenshtein/issues"
+  },
+  "_id": "simmetrix.levenshtein@0.0.1"
+}
