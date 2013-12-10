@@ -3,7 +3,7 @@
     "name": "Lennart Reuther",
     "email": "lennart.reuther+xirtemmis@gmail.com"
   },
-  "name": "simmetrix.levenshtein",
+  "name": "simmetrix_levenshtein",
   "description": "levenshtein distance in javascript",
   "version": "0.0.1",
   "repository": {
@@ -26,5 +26,5 @@
  "bugs": {
     "url": "https://github.com/l-ray/simmetrix.levenshtein/issues"
   },
-  "_id": "simmetrix.levenshtein@0.0.1"
+  "_id": "simmetrix_levenshtein@0.0.1"
 }
