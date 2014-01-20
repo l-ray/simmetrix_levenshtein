@@ -5,7 +5,7 @@
   },
   "name": "simmetrix_levenshtein",
   "description": "levenshtein distance in javascript",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "type": "git",
     "url": "git://github.com/l-ray/simmetrix.levenshtein.git"
