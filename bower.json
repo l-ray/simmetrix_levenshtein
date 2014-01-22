@@ -1,5 +1,5 @@
 {
-  "name": "simmetrix_levenshtein",
+  "name": "simmetrix-levenshtein",
   "version": "0.0.2",
   "main": "./lib/simmetrix.levenshtein.js",
   "dependencies": { }
